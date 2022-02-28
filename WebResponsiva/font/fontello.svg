@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="air" unicode="&#xe800;" d="M85 534q-16-14-36-12t-34 18q-14 14-12 36t18 36q48 40 79 60t89 40 129 4 159-66 155-53 100 16 89 67q38 30 70-6 32-40-6-72-122-110-234-110-100 0-222 70-68 38-119 52t-93 0-65-29-67-51z m736-110q38 32 70-6 32-40-6-72-40-34-65-53t-72-38-97-19q-96 0-222 70-68 38-119 52t-93 0-65-29-67-51q-14-14-35-12t-35 18q-32 40 6 72 38 34 60 50t69 38 88 23 105-15 134-56q68-38 119-52t93 0 65 29 67 51z m0-256q38 32 70-6 14-14 12-36t-18-36q-40-34-65-53t-72-38-97-19q-96 0-222 70-68 38-119 52t-93 1-66-29-66-52q-14-14-35-12t-35 18q-32 40 6 72 38 34 60 50t69 38 88 23 105-15 134-56q68-38 119-52t93 0 65 29 67 51z" horiz-adv-x="905" />
+
+<glyph glyph-name="gmail" unicode="&#xe801;" d="M0-97l0 897 185 0 9-8 825 0 9 8 174 0 0-900-171 0 0 7-855 0 0-4-176 0z m176 132l0-80 855 0 0 74-345 259-79-65-86 70z m0 60l307 229-307 252 0-481z m83 641l348-298 347 298-695 0z m465-417l307-230 0 484z" horiz-adv-x="1202" />
+
+<glyph glyph-name="facebook" unicode="&#xe802;" d="M0 313l0 191 154 0 0 96q0 104 68 177t163 73l153 0 0-191-153 0q-15 0-27-16t-12-41l0-98 192 0 0-191-192 0 0-463-192 0 0 463-154 0z" horiz-adv-x="538" />
+
+<glyph glyph-name="instagram" unicode="&#xe803;" d="M0-50l0 800q0 41 30 71t70 29l800 0q41 0 71-29t29-71l0-800q0-41-29-71t-71-29l-800 0q-41 0-70 29t-30 71z m200 400q0-124 88-212t212-88 212 88 88 212-88 212-212 88-212-88-88-212z m100 0q0 82 59 141t141 59 141-59 59-141-59-141-141-59-141 59-59 141z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
